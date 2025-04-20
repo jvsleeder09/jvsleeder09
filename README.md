@@ -2,7 +2,7 @@
 
 **`Eng Compt em Andamento`**
 
-Me chamo JV, tenho 20 anos e sou natural de Brasília. Atualmente, estou cursando Engenharia da Computação e sou apaixonado por tecnologia. Tenho foco em automatação, criação de Sistemas e Sites. 
+Me chamo JV, tenho 20 anos e sou natural de Brasília. Atualmente, estou cursando Engenharia da Computação e sou apaixonado por tecnologia. Tenho foco em automação, criação de Sistemas e Sites. 
 
 ---
 ### 🤖 Linguagens e Tecnologias
