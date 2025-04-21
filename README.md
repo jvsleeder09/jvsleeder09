@@ -16,5 +16,5 @@ Me chamo JV, tenho 20 anos e sou natural de Brasília. Atualmente, estou cursand
 
 </div><br/>
 
-🖥️ Linguagens de programação todas básicas e não tão avançadas
+🖥️ Linguagens de programação em nível básico.
 
