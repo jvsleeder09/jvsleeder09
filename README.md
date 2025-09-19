@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou Victor 🕷️
 
 🚀 Desenvolvedor focado em **automação, análise de dados e soluções web**  
-💕 Apaixonado por otimizar processos, criar sistemas e resolver problemas
+💕 Apaixonado por otimizar **processos, criar sistemas e resolver problemas**
 
 ---
 
