@@ -1,10 +1,10 @@
-# 👋 Olá, eu sou Victor Lêla!
+# 👋 Olá, eu sou Victor 🕷️!
 
-🚀 Desenvolvedor focado em **automação, análise de dados e soluções web**.  
-🎯 Apaixonado por otimizar processos e criar sistemas que simplificam a vida das pessoas.  
+🚀 Desenvolvedor focado em **automação, análise de dados e soluções web**. 
+😍 Apaixonado por otimizar processos, criar sistemas e resolver problemas.
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2tnNXdwN2F6dWw2ZnYwMmVzejlzdGUwYWNudHNld2xxMTJ3a3V2aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/D7z8JfNANqahW/giphy.gif" width="200"/>
 </div>
 
 ---
