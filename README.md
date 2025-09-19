@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou Victor 🕷️!
 
-🚀 Desenvolvedor focado em **automação, análise de dados e soluções web**. 
-😍 Apaixonado por otimizar processos, criar sistemas e resolver problemas.
+🚀 Desenvolvedor focado em **automação, análise de dados e soluções web**.  
+💕 Apaixonado por otimizar processos, criar sistemas e resolver problemas.
 
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2tnNXdwN2F6dWw2ZnYwMmVzejlzdGUwYWNudHNld2xxMTJ3a3V2aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/D7z8JfNANqahW/giphy.gif" width="200"/>
@@ -66,10 +66,11 @@
 
 ## 📈 Estatísticas de GitHub
 
-<div align="center">
-  ![Jonathan Sleeder's GitHub stats](https://github-readme-stats.vercel.app/api?username=JonathanSleeder&show_icons=true&theme=radical)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanSleeder&layout=compact&theme=radical)
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jvsleeder09&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvsleeder09&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
 
 ---
 
