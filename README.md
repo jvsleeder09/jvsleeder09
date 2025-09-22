@@ -12,29 +12,13 @@
 
 ## 📂 Projetos em destaque
 
-### 📊 Automação Excel VBA
-**Descrição:** Consolidação automática de planilhas por estado/ano.  
-[![Acessar](https://img.shields.io/badge/Acessar-Repositório-blue?style=for-the-badge)](https://github.com/JonathanSleeder/excel-vba-automation)
+### 🕷️ Projetos Profissionais
+**Descrição:** Explicação sobre todos os projetos existentes na organização profissional.  
+[![Acessar](https://img.shields.io/badge/Acessar-Repositório-blue?style=for-the-badge)](hhttps://github.com/ProfissionalJV/Portifolio-MCom.git)
 
-### 🖥️ Automação PPT + Excel
-**Descrição:** Atualiza apresentações do PowerPoint automaticamente com dados do Excel.  
-[![Acessar](https://img.shields.io/badge/Acessar-Repositório-blue?style=for-the-badge)](https://github.com/JonathanSleeder/ppt-excel-automation)
-
-### 🌐 Site Institucional
-**Descrição:** Layout customizado do Google Sites para programa governamental.  
-[![Acessar](https://img.shields.io/badge/Acessar-Repositório-blue?style=for-the-badge)](https://github.com/JonathanSleeder/mcom-site-layout)
-
-### 📧 Automação de E-mails
-**Descrição:** Envio automatizado de e-mails personalizados via Google Apps Script.  
-[![Acessar](https://img.shields.io/badge/Acessar-Repositório-blue?style=for-the-badge)](https://github.com/JonathanSleeder/apps-script-email-automation)
-
-### 📑 Busca de Documentos
-**Descrição:** Sistema de busca avançada em planilhas Google.  
-[![Acessar](https://img.shields.io/badge/Acessar-Repositório-blue?style=for-the-badge)](https://github.com/JonathanSleeder/apps-script-document-search)
-
-### 🎓 Extração de Certificados
-**Descrição:** Extrai dados de certificados PDF para Excel de forma automatizada.  
-[![Acessar](https://img.shields.io/badge/Acessar-Repositório-blue?style=for-the-badge)](https://github.com/JonathanSleeder/certificate-data-extraction)
+### 🕷️ Projetos Acadêmicos 
+**Descrição:** Projetos realizados na faculdade disponíveis na organização acadêmica.  
+[![Acessar](https://img.shields.io/badge/Acessar-Repositório-blue?style=for-the-badge)](https://github.com/FaculdadeJV/SistemaPetShop.version1.git)
 
 ---
 
@@ -45,18 +29,11 @@
 
 ---
 
-## 📬 Contato
-
-✉️ victorarsego1@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/...)
-
----
-
-## 🔮 Próximos passos
-
-- Criar dashboards em Python para análise de dados  
-- Desenvolver mais aplicativos web com Streamlit  
-- Aprimorar integração entre Google Sheets e automações corporativas
+## 👨‍💻 Autor
+**Victor A. Lêla**  
+📍 Estudante de Engenharia da Computação (4º semestre)  
+📍 Estudante de Gestão Pública (4º semestre)    
+📩 victorarsego1@gmail.com
 
 ---
 
