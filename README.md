@@ -22,13 +22,6 @@
 
 ---
 
-## 📈 Estatísticas de GitHub
-
-<img src="https://github-readme-stats.vercel.app/api?username=jvsleeder09&show_icons=true&theme=radical" alt="GitHub Stats" />  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvsleeder09&layout=compact&theme=radical" alt="Top Languages" />
-
----
-
 ## 👨‍💻 Autor
 **Victor A. Lêla**  
 📍 Estudante de Engenharia da Computação (4º semestre)  
