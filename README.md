@@ -17,7 +17,7 @@
 [![Acessar](https://img.shields.io/badge/Acessar-Repositório-blue?style=for-the-badge)](https://github.com/ProfissionalJV/Portifolio-MCom.git)
 
 ### 🕷️ Projetos Acadêmicos 
-**Descrição:** Projetos realizados na faculdade disponíveis na organização acadêmica.  
+**Descrição:** Projetos realizados no âmbito acadêmico disponíveis na organização acadêmica.  
 [![Acessar](https://img.shields.io/badge/Acessar-Repositório-blue?style=for-the-badge)](https://github.com/FaculdadeJV/SistemaPetShop.version1.git)
 
 ---
