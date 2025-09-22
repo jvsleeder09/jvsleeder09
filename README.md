@@ -13,7 +13,7 @@
 ## 📂 Projetos em destaque
 
 ### 🕷️ Projetos Profissionais
-**Descrição:** Explicação sobre todos os projetos existentes na organização profissional.  
+**Descrição:** Projetos realizados no âmbito profissional disponíveis na organização profissional.  
 [![Acessar](https://img.shields.io/badge/Acessar-Repositório-blue?style=for-the-badge)](hhttps://github.com/ProfissionalJV/Portifolio-MCom.git)
 
 ### 🕷️ Projetos Acadêmicos 
