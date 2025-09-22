@@ -14,7 +14,7 @@
 
 ### 🕷️ Projetos Profissionais
 **Descrição:** Projetos realizados no âmbito profissional disponíveis na organização profissional.  
-[![Acessar](https://img.shields.io/badge/Acessar-Repositório-blue?style=for-the-badge)](hhttps://github.com/ProfissionalJV/Portifolio-MCom.git)
+[![Acessar](https://img.shields.io/badge/Acessar-Repositório-blue?style=for-the-badge)](https://github.com/ProfissionalJV/Portifolio-MCom.git)
 
 ### 🕷️ Projetos Acadêmicos 
 **Descrição:** Projetos realizados na faculdade disponíveis na organização acadêmica.  
